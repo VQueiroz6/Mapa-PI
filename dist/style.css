@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+body{
+    opacity: 20;
+    margin:1;
+    padding:1;
+    font-family: 'Montserrat', sans-serif;
+    background-size: 100%;
+    color: black   
+}
+    
+h1{
+    text-align: start;
+}
+#mapa{
+box-shadow: 0 0 15px black;
+border-radius:  15px;
+height:1060px;
+width: 1000px;
+margin-bottom: 20px;
+
+}
+footer{
+    display: flex;
+    justify-content:center;
+}
+.cor{
+    background-color:#32CD32;
+    opacity: 1;
+}
+.fBranco{
+    color:white;
+}
